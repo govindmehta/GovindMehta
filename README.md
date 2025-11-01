@@ -1,13 +1,16 @@
 ## Hi, I'm Govind 👋
 
-- 💻 I work with modern technologies like NextJs, React, Node.js, Express, WebSockets, SQL, Prisma, Redux and more....<br>
-- 🎨 I care deeply about UI/UX and love adding life to interfaces using Tailwind CSS, Styled-components, Framer Motion, and GSAP<br>
-- 🔌 I build scalable APIs, handle authentication with JWT, and have experience with Docker and cloud deployments (AWS S3, CloudFront)<br>
-- 🧠 Always learning — from low-level debugging to high-level system design<br>
-- 🛠️ I enjoy building tools, and AI-integrated apps that actually help people<br>
-- 🤝 I value clean code, collaboration, and continuous improvement<br>
-- 🌐 I’m open to internships, remote work, freelance gigs, or collaborating on meaningful projects<br>
-- 📫 Reach me at: [govindmehta.gov@gmail.com](mailto:govindmehta.gov@gmail.com) | [LinkedIn](https://www.linkedin.com/in/govind-mehta-89go75)<br>
+- 💻 I work with modern technologies like **Next.js**, **React**, **Node.js**, **FastAPI**, **Express**, **WebSockets**, **SQL**, **Prisma**, and more to build scalable full-stack apps.<br/>
+- ⚙️ I’ve designed and deployed **RESTful and gRPC APIs**, handled **authentication with JWT & NextAuth**, and containerized apps using **Docker** for smooth deployment.<br/>
+- ☁️ Experienced with **MySQL**, **PostgreSQL**, **MongoDB**, and **NeonDB**, plus managing cloud deployments on **AWS**, **GCP**, **Vercel**, and **Cloudflare Workers**.<br/>
+- 🎨 I care deeply about **UI/UX** and love adding motion and life to interfaces using **Tailwind CSS**, **Framer Motion**, **GSAP**, and **Styled-components**.<br/>
+- 🧠 Constantly learning — from **low-level debugging** to **high-level system design**, and exploring **AI integrations** to build tools that actually help people.<br/> 
+- 🧰 I also work with **TypeScript**, **Python**, and **Java**, using tools like **TurboRepo**, **Vitest**, **Jest**, **Prometheus**, **Grafana**, **Loki**, and **New Relic** for testing and monitoring.<br/>
+- 🚀 I enjoy optimizing performance, setting up **CI/CD pipelines**, and building reliable systems with proper logging and observability.<br/>
+- 🤝 I value **clean code**, **collaboration**, and **continuous improvement** — always open to learning from others and sharing what I know.<br/> 
+- 🌐 Open to **internships**, **remote work**, **freelance gigs**, or **collaborating on impactful projects**.<br/>
+- 📫 Reach me at: [govindmehta.gov@gmail.com](mailto:govindmehta.gov@gmail.com) | [LinkedIn](https://www.linkedin.com/in/govind-mehta-89go75)
+
 
 
 
