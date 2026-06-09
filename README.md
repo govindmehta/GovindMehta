@@ -101,20 +101,11 @@
 
 ---
 
-<div align="center">
-  <h2>🐍 Code Contribution Journey</h2>
-  <img src="https://raw.githubusercontent.com/govindmehta/govindmehta/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake Dark Mode" onError="this.style.display='none'"/>
-  <p><i>Watch the snake eat through my open-source commits!</i></p>
-</div>
-
----
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=govindmehta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=govindmehta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=govindmehta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center">
+  <img src="https://readme-stats-github.pages.dev/api?username=govindmehta&theme=dark" alt="Govind's GitHub Stats" width="48%" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=govindmehta&theme=dark&layout=compact" alt="Top Languages" width="48%" />
+</p>
 
 ---
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=govindmehta&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
