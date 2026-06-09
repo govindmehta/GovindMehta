@@ -101,6 +101,14 @@
 
 ---
 
+<div align="center">
+  <h2>🐍 Code Contribution Journey</h2>
+  <img src="https://raw.githubusercontent.com/govindmehta/govindmehta/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <p><i>Watch the snake eat through my open-source commits!</i></p>
+</div>
+
+---
+
 # 📊 GitHub Stats:
 
 <p align="center">
